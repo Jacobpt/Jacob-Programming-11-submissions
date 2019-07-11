@@ -5,7 +5,7 @@ public class School { //this class is meant to represent a school
     private String name;
     private ArrayList <Student> students = new ArrayList<>(); //list of students
     private ArrayList <Teacher> teachers = new ArrayList<>(); //teachers
-    private ArrayList <Course> classes = new ArrayList<>(); //list of courses
+   // private ArrayList <Course> classes = new ArrayList<>(); //list of courses
     private int bottomgrade; //lowest and highest grades taught. A high school might be bottomgrade = 8, topgrade = 12 for example
     private int topgrade;
 
