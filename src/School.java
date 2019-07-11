@@ -151,11 +151,5 @@ public class School { //this class is meant to represent a school
         this.teachers = teachers;
     }
 
-    public ArrayList<Course> getClasses() {
-        return classes;
-    }
-
-    public void setClasses(ArrayList<Course> classes) {
-        this.classes = classes;
-    }
+   
 }
